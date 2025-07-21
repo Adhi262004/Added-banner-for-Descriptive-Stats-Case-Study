@@ -65,12 +65,6 @@ Key observation: Employee with `id = 26` showed a **salary-health mismatch**.
 
 ---
 
-## 🖼️ Project Banner
-
-![Descriptive Stats Banner](descriptive_stats_banner.png)
-
----
-
 ## 📁 Files Included
 
 - `Descriptive_Statistics_Case_Study.ipynb` – Main notebook  
