@@ -91,9 +91,9 @@ Key observation: Employee with `id = 26` showed a **salary-health mismatch**.
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/aditya-verma)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-verma-791035269/)  
 - 💻 [GitHub](https://github.com/yourusername)  
-- 📧 Email: aditya.verma@email.com
+- 📧 Email: aadhikumar262004@gmail.com
 
 ---
 
